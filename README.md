@@ -31,6 +31,8 @@ Me apasiona construir soluciones tecnológicas funcionales, eficientes y orienta
 
 ## 🎨 Frontend
 
+![Tecnologías Frontend: HTML, CSS, JavaScript, TypeScript, React y Vue](https://skillicons.dev/icons?i=html,css,js,ts,react,vue&theme=light)
+
 - HTML5
 - CSS3
 - JavaScript
@@ -42,6 +44,8 @@ Me apasiona construir soluciones tecnológicas funcionales, eficientes y orienta
 - Diseño responsivo y experiencia de usuario
 
 ## ⚙️ Backend y Programación
+
+![Backend: Node.js, Python, Java, PHP, C Sharp, C Plus Plus y Qt](https://skillicons.dev/icons?i=nodejs,py,java,php,cs,cpp,qt&theme=light)
 
 - Node.js
 - Python
@@ -56,6 +60,8 @@ Me apasiona construir soluciones tecnológicas funcionales, eficientes y orienta
 
 ## 🗄️ Bases de Datos
 
+![Bases de datos: MySQL, PostgreSQL, MongoDB, Firebase y SQLite](https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,sqlite&theme=light)
+
 - MySQL
 - PostgreSQL
 - MongoDB
@@ -66,6 +72,8 @@ Me apasiona construir soluciones tecnológicas funcionales, eficientes y orienta
 - Validación y gestión de datos
 
 ## 🧪 QA y Testing
+
+![QA y testing: Selenium y Vitest](https://skillicons.dev/icons?i=selenium,vitest&theme=light)
 
 - Aseguramiento de Calidad de Software (QA)
 - Pruebas funcionales
@@ -107,6 +115,8 @@ Me apasiona construir soluciones tecnológicas funcionales, eficientes y orienta
 - Protección y verificación de contraseñas con Argon2
 
 ## 🛠️ Herramientas y Metodologías
+
+![Herramientas: Git, GitHub, Visual Studio Code, Docker y Figma](https://skillicons.dev/icons?i=git,github,vscode,docker,figma&theme=light)
 
 - Git
 - GitHub
