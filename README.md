@@ -1,166 +1,453 @@
+
 # ¡Hola, soy Ronaldo Quinayas Agredo! 👋
 
-**Ingeniero Informático | Desarrollador de Software Junior | QA Tester Junior**
+**Ingeniero Informático | Desarrollador Frontend & Backend | QA Tester & Automation | Desarrollo de Software**
 
-📍 **Popayán, Colombia**  
+📍 **Popayán, Cauca, Colombia**  
+📱 **Teléfono:** [+57 324 564 2167](tel:+573245642167)  
 📧 **Correo:** [ronaldo.diaz.0007@gmail.com](mailto:ronaldo.diaz.0007@gmail.com)  
-💻 **GitHub:** [@ronaldodiaz07](https://github.com/ronaldodiaz07)
+💻 **GitHub:** [@ronaldodiaz07](https://github.com/ronaldodiaz07)  
+💬 **WhatsApp:** [Contáctame](https://wa.me/573245642167)
 
 ---
 
 ## 👨‍💻 Sobre mí
 
-Soy **Ingeniero Informático** con experiencia práctica en **desarrollo de software y aseguramiento de calidad (QA)**. He participado en procesos de desarrollo, mantenimiento y validación de aplicaciones, incluyendo **pruebas funcionales, identificación de incidencias, ajustes de código y verificación de soluciones**.
+Soy **Ingeniero Informático** con experiencia práctica en **desarrollo de software, aseguramiento de calidad (QA) y automatización de pruebas**.
 
-Cuento con conocimientos en **desarrollo frontend y backend**, programación con **JavaScript, TypeScript, Java, Python y PHP**, consumo de **APIs REST/JSON**, bases de datos relacionales y no relacionales, control de versiones y metodologías ágiles. También tengo formación en **diseño de interfaces, análisis de requerimientos, documentación técnica y automatización de pruebas con Selenium**.
+He participado en procesos de desarrollo, mantenimiento, validación y mejora de aplicaciones, combinando conocimientos en **programación Frontend y Backend, bases de datos, testing automatizado, documentación técnica y metodologías ágiles**.
 
-Me interesan los proyectos que combinan **software funcional, buena experiencia de usuario y calidad técnica**. Me caracterizo por el pensamiento analítico, la atención al detalle, la resolución de problemas y el aprendizaje continuo.
+Durante mi experiencia profesional en **KIGYOKA**, participé en procesos de desarrollo y aseguramiento de calidad, realizando pruebas funcionales, análisis de incidencias, ajustes de código y validación de funcionalidades.
+
+Como parte de mi trabajo de grado, diseñé e implementé un **marco de pruebas funcionales** aplicado a la plataforma **My Virtual Trainer**, utilizando tecnologías como **Vue.js, JavaScript, Vitest, Vue Test Utils, Happy DOM y Power BI**.
+
+Actualmente desarrollo **KAPRISHOTS**, una aplicación de escritorio en **Python**, con arquitectura de persistencia de datos, autenticación, administración de usuarios, roles y permisos, orientada a la gestión comercial y de inventario.
+
+Me apasiona construir soluciones tecnológicas funcionales, eficientes y orientadas a las necesidades de los usuarios. Me caracterizo por el pensamiento lógico, el análisis, la atención al detalle, el trabajo en equipo y el aprendizaje continuo.
 
 ---
 
-# 🚀 Tecnologías y habilidades técnico-prácticas
+# 🚀 Tecnologías y Habilidades Técnico-Prácticas
 
-### 🎨 Frontend
+## 🎨 Frontend
 
-- HTML5 y CSS3
-- JavaScript y TypeScript
-- React y Vue.js
-- Diseño de interfaces y prototipado
+- HTML5
+- CSS3
+- JavaScript
+- TypeScript
+- React
+- Vue.js
+- Diseño de interfaces
+- Desarrollo de aplicaciones web
+- Diseño responsivo y experiencia de usuario
 
-### ⚙️ Backend y programación
+## ⚙️ Backend y Programación
 
 - Node.js
-- Java, Python y PHP
-- C# y C++
-- Consumo y trabajo con APIs REST / JSON
+- Python
+- Java
+- PHP
+- C#
+- C++
+- APIs REST / JSON
+- Desarrollo de aplicaciones de escritorio
+- PySide6 / Qt
+- SQLAlchemy
 
-### 🗄️ Bases de datos
+## 🗄️ Bases de Datos
 
-- MySQL y PostgreSQL
-- MongoDB y Firebase
-- Modelado y validación de datos
+- MySQL
+- PostgreSQL
+- MongoDB
+- Firebase
+- SQLite
+- Diseño y modelado de bases de datos
+- Consultas SQL
+- Validación y gestión de datos
 
-### 🧪 QA y testing
+## 🧪 QA y Testing
 
-- Aseguramiento de calidad de software (QA)
-- Diseño y ejecución de **pruebas funcionales**
-- Elaboración de **casos de prueba**
-- Identificación, documentación y seguimiento de incidencias
-- Validación de requerimientos y funcionalidades
-- Conocimientos en **automatización de pruebas con Selenium**
+- Aseguramiento de Calidad de Software (QA)
+- Pruebas funcionales
+- Pruebas unitarias
+- Pruebas de integración
+- Testing automatizado
+- Diseño y ejecución de casos de prueba
+- Pruebas positivas y negativas
+- Identificación y documentación de defectos
+- Análisis y validación de requerimientos
+- Seguimiento de incidencias
+- Selenium
+- Vitest
+- Vue Test Utils
+- Happy DOM
+- Mocks de servicios
+- Matriz de trazabilidad de requisitos (RTM)
 
-### 🛠️ Herramientas, metodologías y diseño
+## 📊 Calidad de Software y Analítica
 
-- **Control de versiones:** Git y GitHub
-- **Entornos:** Docker y XAMPP
-- **Gestión:** Jira y Trello
-- **Metodologías:** Scrum y enfoques ágiles
-- **Diseño y modelado:** Figma, Moqups, Lucidchart y Draw.io
+- Power BI
+- Dashboards de indicadores de calidad
+- Análisis de cobertura de pruebas
+- Indicadores KPI
+- Métricas de ejecución de pruebas
+- Evaluación de resultados
+- TMMi
+- Agile Testing
+- Buenas prácticas ISTQB
+- ISO/IEC 25010
+- Shift-Left Testing
+
+## 🔐 Seguridad y Control de Acceso
+
+- Autenticación de usuarios
+- Gestión de roles y permisos
+- Control de acceso basado en roles
+- Validación de credenciales
+- Protección y verificación de contraseñas con Argon2
+
+## 🛠️ Herramientas y Metodologías
+
+- Git
+- GitHub
+- Visual Studio Code
+- Docker
+- XAMPP
+- Jira
+- Trello
+- Scrum
+- Metodologías ágiles
+- Figma
+- Moqups
+- Lucidchart
+- Draw.io
 
 ---
 
-# 💼 Experiencia profesional
+# 💼 Experiencia Profesional
 
-### KIGYOKA — Pasante, Analista Tester / Desarrollo de Software
+## KIGYOKA
 
+**Pasante — Analista Tester / Desarrollo de Software**  
 *Agosto 2025 – Diciembre 2025 | Bogotá, Colombia*
 
-- Ejecuté **pruebas funcionales** para comprobar el correcto funcionamiento de aplicaciones.
-- Identifiqué, analicé, documenté y realicé seguimiento de **incidencias**.
-- Participé en la **modificación y ajuste de código fuente**, corrección de errores y validación de funcionalidades.
-- Colaboré con el equipo de desarrollo en el análisis de problemas, implementación de soluciones y verificación de resultados.
-- Apoyé actividades de **aseguramiento de calidad, mantenimiento y mejora continua** del software.
+Durante mi experiencia profesional participé en actividades de desarrollo, mantenimiento y aseguramiento de calidad de aplicaciones de software.
+
+### Responsabilidades y actividades
+
+- Ejecución de pruebas funcionales para validar el comportamiento de aplicaciones.
+- Identificación, análisis, documentación y seguimiento de incidencias.
+- Modificación y ajuste de código fuente para corregir errores.
+- Validación de funcionalidades de acuerdo con los requerimientos establecidos.
+- Participación en procesos de desarrollo y mantenimiento de software.
+- Colaboración con equipos de desarrollo para implementar y verificar soluciones.
+- Diseño y documentación de casos de prueba.
+- Apoyo en actividades de aseguramiento de calidad y mejora continua.
+
+### Aporte destacado
+
+Diseñé, implementé y evalué un marco de pruebas funcionales para fortalecer el aseguramiento de calidad de la plataforma **My Virtual Trainer**, incorporando automatización, trazabilidad y métricas de calidad.
 
 ---
 
-# 📂 Proyectos destacados
+# 📂 Proyectos Destacados
 
-### 🚗 Sistema de Gestión para Parqueaderos (SGP)
+## 🛍️ KAPRISHOTS — Sistema de Gestión Comercial e Inventario
 
-*Proyecto académico | 2026*
+**Desarrollador de Software | Proyecto en desarrollo**
+
+Aplicación de escritorio desarrollada en **Python**, orientada a la administración comercial de un negocio mediante una interfaz gráfica, persistencia de información y mecanismos de autenticación y control de acceso.
+
+### Tecnologías
+
+- Python
+- PySide6 / Qt
+- SQLAlchemy
+- SQLite
+- Argon2
+
+### Funcionalidades implementadas
+
+- Inicio de sesión mediante credenciales.
+- Validación y protección de contraseñas.
+- Interfaz gráfica de escritorio.
+- Panel principal de navegación.
+- Administración de usuarios.
+- Creación y modificación de cuentas.
+- Activación y desactivación de usuarios.
+- Gestión de roles personalizados.
+- Asignación de permisos asociados a roles.
+- Restricciones para operaciones administrativas.
+
+### Módulos en desarrollo
+
+- Gestión de inventario y productos.
+- Ventas y punto de venta.
+- Administración de clientes.
+- Control de caja.
+- Ingresos y egresos.
+- Cartera y acuerdos de pago.
+- Reportes comerciales.
+
+**Estado:** En desarrollo activo.
+
+Este proyecto me permite fortalecer competencias en desarrollo de aplicaciones de escritorio, programación orientada a objetos, modelado de datos, gestión de usuarios y diseño de sistemas de información.
+
+---
+
+## 🧪 Trabajo de Grado — Marco de Pruebas Funcionales en KIGYOKA
+
+**Proyecto de Grado | Ingeniería Informática | 2025–2026**
+
+**Título:** Implementación de un marco de pruebas funcionales para el aseguramiento de la calidad en los procesos de desarrollo de software de la empresa KIGYOKA.
+
+**Institución:** Institución Universitaria Colegio Mayor del Cauca.
+
+### Descripción
+
+Diseñé, implementé y evalué un marco de pruebas funcionales orientado al aseguramiento de calidad de software, aplicado a la plataforma web **My Virtual Trainer**.
+
+El proyecto integró prácticas de **TMMi, Agile Testing, ISTQB e ISO/IEC 25010**, adaptadas a un entorno de desarrollo ágil basado en Scrum.
+
+### Tecnologías y herramientas utilizadas
+
+- JavaScript
+- Vue.js
+- Vitest
+- Vue Test Utils
+- Happy DOM
+- Firebase (dependencias simuladas)
+- Pinia
+- Vue Router
+- Git y GitHub
+- Visual Studio Code
+- Power BI
+
+### Actividades desarrolladas
+
+- Análisis de marcos y modelos de calidad de software.
+- Diseño de un marco de pruebas funcionales adaptado a KIGYOKA.
+- Identificación y priorización de módulos críticos.
+- Definición de estándares y criterios de aceptación.
+- Elaboración de casos de prueba.
+- Construcción de matrices de trazabilidad de requisitos (RTM).
+- Configuración de entornos de testing automatizado.
+- Implementación de mocks para servicios externos.
+- Automatización de pruebas unitarias y de integración.
+- Ejecución de pruebas funcionales.
+- Identificación y documentación de defectos.
+- Generación de métricas de cobertura.
+- Análisis de resultados.
+- Construcción de un dashboard en Power BI.
+- Elaboración de recomendaciones de mejora.
+
+### Módulos evaluados
+
+**Login.vue**
+- Autenticación de usuarios.
+- Validación de campos obligatorios.
+- Manejo de credenciales.
+- Validación de formatos de entrada.
+- Redirecciones y comportamiento del formulario.
+
+**Signup.vue**
+- Registro de usuarios.
+- Validación de datos.
+- Verificación de contraseñas.
+- Manejo de correos registrados.
+- Validación de términos y condiciones.
+
+**ForgotPassword.vue**
+- Recuperación de contraseña.
+- Validación de correo electrónico.
+- Manejo de errores.
+- Control de solicitudes.
+- Estados de carga del formulario.
+
+### 📊 Resultados obtenidos
+
+| Indicador | Resultado |
+|---|---|
+| Casos de prueba ejecutados | 24 |
+| Casos aprobados | 20 |
+| Casos fallidos | 4 |
+| Tasa de éxito | 83,33 % |
+| Cobertura funcional del alcance | 100 % |
+| Cobertura promedio de código | 94,65 % |
+| Cobertura de líneas | 96,69 % |
+| Cobertura de ramas | 82,69 % |
+| Cobertura de funciones | 41,30 % |
+| Tiempo promedio de ejecución | 1,85 segundos |
+
+### Resultados por módulo
+
+| Módulo | Pruebas | Aprobadas | Fallidas |
+|---|---:|---:|---:|
+| Login | 7 | 5 | 2 |
+| Signup | 9 | 8 | 1 |
+| Recuperar contraseña | 8 | 7 | 1 |
+| **Total** | **24** | **20** | **4** |
+
+### Principales aportes
+
+- Implementación de un proceso estructurado de pruebas funcionales.
+- Incorporación de automatización para validar módulos críticos.
+- Detección de defectos relacionados con validaciones de datos.
+- Documentación de casos de prueba y trazabilidad de requisitos.
+- Generación de indicadores objetivos de calidad.
+- Construcción de un dashboard para visualizar resultados.
+- Integración de actividades de QA dentro de un proceso ágil.
+
+Las métricas corresponden a los módulos evaluados dentro del alcance del proyecto y no representan la cobertura total de la plataforma.
+
+Los resultados permitieron identificar oportunidades de mejora en la validación de correos electrónicos, contraseñas y formularios.
+
+---
+
+## 🚗 Sistema de Gestión para Parqueaderos (SGP)
+
+**Proyecto Académico | 2026**
+
+Proyecto orientado al análisis y diseño de un sistema de información para la gestión de parqueaderos.
+
+### Actividades desarrolladas
 
 - Análisis de requerimientos funcionales y no funcionales.
-- Elaboración de **historias de usuario** y documentación técnica.
-- Diseño de prototipos de interfaz y modelado de procesos de registro de vehículos, control de espacios, reportes y usuarios.
-- Construcción de **casos de prueba** para funcionalidades críticas.
+- Elaboración de historias de usuario.
+- Diseño de prototipos de interfaces.
+- Construcción de casos de prueba.
+- Modelado de procesos de registro de vehículos.
+- Análisis de control de espacios.
+- Definición de funcionalidades de reportes.
+- Modelado de gestión de usuarios.
+- Aplicación de metodologías ágiles.
 
-### 🚀 Proyecto en desarrollo — Kaprishots
-Sistema de Gestión de Inventario
+---
 
-Aplicación para la administración y control de inventarios, actualmente en desarrollo, que incorpora un sistema de gestión de usuarios con diferentes roles.
+## 🏠 Aplicación Inmobiliaria
 
-### 🧪 Proyecto de grado — KIGYOKA
+**Proyecto Académico**
 
-*Agosto 2025 – Mayo 2026*
+- Elaboración de historias de usuario.
+- Definición de casos de uso.
+- Análisis de requerimientos.
+- Diseño de interfaces.
 
-**Implementación de un marco de pruebas funcionales para el aseguramiento de la calidad en los procesos de desarrollo de software de KIGYOKA.**
+---
 
-### 💡 Otros proyectos académicos
+## 🚍 Aplicación de Transporte
 
-- **Aplicación inmobiliaria:** historias de usuario, casos de uso y diseño de interfaces.
-- **Aplicación de transporte:** documentación de requisitos, mockups de formularios, informes y validación de funcionalidades.
-- **Software de notas académicas:** diseño de interfaces, validación de datos y documentación técnica y de usuario.
-- **Aplicación móvil con realidad aumentada:** definición y documentación de requisitos y participación en la propuesta de desarrollo.
+**Proyecto Académico**
 
-### 🔗 Repositorio público
+- Documentación de requisitos funcionales.
+- Elaboración de mockups de formularios.
+- Diseño de interfaces.
+- Validación de funcionalidades.
+- Elaboración de informes técnicos.
 
-- [**talento-tech**](https://github.com/ronaldodiaz07/talento-tech) — repositorio de actividades y ejercicios de formación.
+---
 
-<!-- Cuando publiques los proyectos académicos en repositorios públicos, agrega aquí sus enlaces verificados. -->
+## 📚 Software de Notas Académicas
+
+**Proyecto Académico**
+
+- Diseño de interfaces.
+- Validación de datos.
+- Elaboración de documentación técnica.
+- Documentación de usuario.
+
+---
+
+## 📱 Aplicación Móvil con Realidad Aumentada
+
+**Proyecto Académico**
+
+- Análisis y documentación de requisitos funcionales.
+- Diseño de propuestas de interfaz.
+- Participación en la propuesta de desarrollo de una aplicación móvil con realidad aumentada.
 
 ---
 
 # 🎓 Educación
 
-### Ingeniería Informática
+## Ingeniería Informática
 
 **Institución Universitaria Colegio Mayor del Cauca**  
-*2020 – 2026 | Popayán, Colombia*
+*2020 – 2026 | Popayán, Cauca, Colombia*
 
-### Análisis y Desarrollo de Software
+## Análisis y Desarrollo de Software
 
-**Servicio Nacional de Aprendizaje (SENA)**  
+**Servicio Nacional de Aprendizaje — SENA**  
 *2026*
 
 ---
 
-# 📜 Certificaciones y formación complementaria
+# 📜 Certificaciones y Formación Complementaria
 
-- **Construcción de Bases de Datos con MySQL**
-- **Marketing Digital**
-- **Apropiación de los Conceptos de Ciberseguridad** — SENA
-- **Scrum aplicado a proyectos de desarrollo de software** — SENA
-- **Calidad de Software en procesos de desarrollo** — SENA
-- **Desarrollo web con PHP** — SENA
-- **Desarrollo Backend con Node.js y MongoDB** — SENA
-- **Seminario de Inteligencia Artificial y Paisaje Sonoro** — Ministerio de Ciencias de Colombia
+- Apropiación de los Conceptos de Ciberseguridad — SENA.
+- Scrum aplicado a proyectos de desarrollo de software — SENA.
+- Calidad de Software en procesos de desarrollo — SENA.
+- Desarrollo web con PHP — SENA.
+- Desarrollo Backend con Node.js y MongoDB — SENA.
+- Seminario de Inteligencia Artificial y Paisaje Sonoro — Ministerio de Ciencias de Colombia.
+- Construcción de Bases de Datos con MySQL.
+- Marketing Digital.
 
 ---
 
 # 🌎 Idiomas
 
-- 🇨🇴 **Español:** nativo
-- 🇺🇸 **Inglés:** B1
-- 🇧🇷 **Portugués:** intermedio
+- 🇨🇴 **Español:** Nativo.
+- 🇺🇸 **Inglés:** B1.
+- 🇧🇷 **Portugués:** Intermedio.
 
 ---
 
-# 🤝 Aptitudes
+# 🤝 Aptitudes Profesionales
 
-- Pensamiento lógico y analítico
-- Resolución de problemas
-- Atención al detalle
-- Análisis de requerimientos
-- Trabajo en equipo y comunicación efectiva
-- Aprendizaje continuo y adaptabilidad
+- Pensamiento lógico y analítico.
+- Resolución de problemas.
+- Atención al detalle.
+- Trabajo en equipo.
+- Comunicación efectiva.
+- Análisis de requerimientos.
+- Aprendizaje continuo.
+- Adaptabilidad.
+- Organización y planificación.
+- Orientación a la calidad del software.
+
+---
+
+# 🎯 Intereses Profesionales
+
+Me interesa seguir fortaleciendo mis conocimientos y experiencia en:
+
+- Desarrollo Frontend y Backend.
+- Desarrollo de aplicaciones web.
+- Desarrollo de software de escritorio.
+- QA Testing.
+- Automatización de pruebas.
+- Bases de datos.
+- Ingeniería de software.
+- Calidad y mejora continua.
+- Nuevas tecnologías.
 
 ---
 
 # 📫 Contacto
 
-Me interesa seguir creciendo profesionalmente en **desarrollo de software** y **aseguramiento de calidad (QA)**, colaborar en proyectos tecnológicos y aportar soluciones centradas en las necesidades de los usuarios.
+Estoy interesado en oportunidades profesionales, proyectos de desarrollo de software, aseguramiento de calidad y colaboración tecnológica.
 
-📩 **Email:** [ronaldo.diaz.0007@gmail.com](mailto:ronaldo.diaz.0007@gmail.com)  
-🔗 **GitHub:** [github.com/ronaldodiaz07](https://github.com/ronaldodiaz07)
+📍 **Ubicación:** Popayán, Cauca, Colombia.
 
-<!-- Añade tus enlaces reales de LinkedIn y portafolio cuando estén disponibles. -->
+📧 **Correo:** [ronaldo.diaz.0007@gmail.com](mailto:ronaldo.diaz.0007@gmail.com)
+
+📱 **Celular:** [+57 324 564 2167](tel:+573245642167)
+
+💬 **WhatsApp:** [Escríbeme directamente](https://wa.me/573245642167)
+
+💻 **GitHub:** [github.com/ronaldodiaz07](https://github.com/ronaldodiaz07)
+
+---
+
+⭐ **Comprometido con el desarrollo de software funcional, la calidad técnica y el aprendizaje continuo.**
