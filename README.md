@@ -84,6 +84,11 @@ Me interesan los proyectos que combinan **software funcional, buena experiencia 
 - Diseño de prototipos de interfaz y modelado de procesos de registro de vehículos, control de espacios, reportes y usuarios.
 - Construcción de **casos de prueba** para funcionalidades críticas.
 
+### 🚀 Proyecto en desarrollo — Kaprishots
+Sistema de Gestión de Inventario
+
+Aplicación para la administración y control de inventarios, actualmente en desarrollo, que incorpora un sistema de gestión de usuarios con diferentes roles.
+
 ### 🧪 Proyecto de grado — KIGYOKA
 
 *Agosto 2025 – Mayo 2026*
