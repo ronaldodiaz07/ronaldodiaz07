@@ -17,7 +17,7 @@ Soy **Ingeniero Informático** con experiencia práctica en **desarrollo de soft
 
 He participado en procesos de desarrollo, mantenimiento, validación y mejora de aplicaciones, combinando conocimientos en **programación Frontend y Backend, bases de datos, testing automatizado, documentación técnica y metodologías ágiles**.
 
-Durante mi experiencia profesional en **KIGYOKA**, participé en procesos de desarrollo y aseguramiento de calidad, realizando pruebas funcionales, análisis de incidencias, ajustes de código y validación de funcionalidades.
+Durante mi pasantía como **Analista Tester en KIGYOKA**, participé en actividades de aseguramiento de calidad, ejecutando pruebas funcionales, analizando incidencias y validando funcionalidades; también apoyé ajustes de código relacionados con los hallazgos.
 
 Como parte de mi trabajo de grado, diseñé e implementé un **marco de pruebas funcionales** aplicado a la plataforma **My Virtual Trainer**, utilizando tecnologías como **Vue.js, JavaScript, Vitest, Vue Test Utils, Happy DOM y Power BI**.
 
@@ -138,10 +138,10 @@ Me apasiona construir soluciones tecnológicas funcionales, eficientes y orienta
 
 ## KIGYOKA
 
-**Pasante — Analista Tester / Desarrollo de Software**  
+**Analista Tester (Pasantía)**  
 *Agosto 2025 – Diciembre 2025 | Bogotá, Colombia*
 
-Durante mi experiencia profesional participé en actividades de desarrollo, mantenimiento y aseguramiento de calidad de aplicaciones de software.
+Durante mi pasantía me desempeñé como **Analista Tester**, enfocado en pruebas funcionales, análisis de defectos, validación de requisitos y actividades de aseguramiento de calidad de aplicaciones.
 
 ### Responsabilidades y actividades
 
