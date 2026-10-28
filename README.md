@@ -158,6 +158,11 @@ Durante mi pasantía me desempeñé como **Analista Tester**, enfocado en prueba
 
 Diseñé, implementé y evalué un marco de pruebas funcionales para fortalecer el aseguramiento de calidad de la plataforma **My Virtual Trainer**, incorporando automatización, trazabilidad y métricas de calidad.
 
+**📁 Evidencia técnica de QA Automation:** [Ver repositorio de pruebas con Vue.js y Vitest](https://github.com/ronaldodiaz07/qa-automation-vue-vitest)  
+**📄 Documentación de la pasantía:** [Consultar resumen técnico de KIGYOKA](https://github.com/ronaldodiaz07/qa-automation-vue-vitest/blob/main/docs/experiencia-kigyoka.md)
+
+*El repositorio contiene una demostración independiente inspirada en la pasantía; las métricas del trabajo de grado corresponden a las pruebas históricas de My Virtual Trainer.*
+
 ---
 
 # 📂 Proyectos Destacados
