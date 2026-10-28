@@ -7,6 +7,7 @@
 📱 **Teléfono:** [+57 324 564 2167](tel:+573245642167)  
 📧 **Correo:** [ronaldo.diaz.0007@gmail.com](mailto:ronaldo.diaz.0007@gmail.com)  
 💻 **GitHub:** [@ronaldodiaz07](https://github.com/ronaldodiaz07)  
+🔗 **LinkedIn:** [Ronaldo Quinayas Agredo](https://www.linkedin.com/in/ronaldo-quinayas-agredo/)  
 💬 **WhatsApp:** [Contáctame](https://wa.me/573245642167)
 
 ---
@@ -462,6 +463,8 @@ Estoy interesado en oportunidades profesionales, proyectos de desarrollo de soft
 💬 **WhatsApp:** [Escríbeme directamente](https://wa.me/573245642167)
 
 💻 **GitHub:** [github.com/ronaldodiaz07](https://github.com/ronaldodiaz07)
+
+🔗 **LinkedIn:** [linkedin.com/in/ronaldo-quinayas-agredo](https://www.linkedin.com/in/ronaldo-quinayas-agredo/)
 
 ---
 
