@@ -458,9 +458,9 @@ Estoy interesado en oportunidades profesionales, proyectos de desarrollo de soft
 
 📧 **Correo:** [ronaldo.diaz.0007@gmail.com](mailto:ronaldo.diaz.0007@gmail.com)
 
-📱 **Celular:** [+57 324 564 2167](tel:+573245642167)
+📱 **Celular:** [+57 324 564 2167](tel:+573024088502)
 
-💬 **WhatsApp:** [Escríbeme directamente](https://wa.me/573245642167)
+💬 **WhatsApp:** [Escríbeme directamente](https://wa.me/573024088502)
 
 💻 **GitHub:** [github.com/ronaldodiaz07](https://github.com/ronaldodiaz07)
 
