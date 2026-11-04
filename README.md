@@ -4,11 +4,11 @@
 **Ingeniero Informático | Desarrollador Frontend & Backend | QA Tester & Automation | Desarrollo de Software**
 
 📍 **Popayán, Cauca, Colombia**  
-📱 **Teléfono:** [+57 324 564 2167](tel:+573245642167)  
+📱 **Teléfono:** [+57 302 408 8502](tel:+573024088502)  
 📧 **Correo:** [ronaldo.diaz.0007@gmail.com](mailto:ronaldo.diaz.0007@gmail.com)  
 💻 **GitHub:** [@ronaldodiaz07](https://github.com/ronaldodiaz07)  
 🔗 **LinkedIn:** [Ronaldo Quinayas Agredo](https://www.linkedin.com/in/ronaldo-quinayas-agredo/)  
-💬 **WhatsApp:** [Contáctame](https://wa.me/573245642167)
+💬 **WhatsApp:** [Contáctame](https://wa.me/573024088502)
 
 ---
 
